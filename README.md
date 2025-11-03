@@ -1,6 +1,6 @@
 # Ferramenta Completa de Apontamento
 
-Este projeto enorme tem como objetivo criar toda a infraestrutura de apontamento e gestão de horas, de uma empresa software.
+Este projeto enorme tem como objetivo criar toda a infraestrutura de apontamento e gestão de horas, de uma empresa de software.
 
 São 4 grandes áreas de desenvolvimento:
 
@@ -22,7 +22,7 @@ O trabalho de ETL foi conduzida no Jupyter Notebook [`tratando_dados_producao.ip
 
 ![Python 1](/imagens/Python1.png)
 
-A segunda função atualiza o banco de dados consolidado com os dados do banco de dados em produção. Ele analiza os as linhas que serão inseridas e atualizadas, dando a opção de atualizar ou não as linhas já consolidadas
+A segunda função atualiza o banco de dados consolidado com os dados do banco de dados em produção. Ele analiza as linhas que serão inseridas e atualizadas, dando a opção de atualizar ou não as linhas já consolidadas
 
 ![Python 2](/imagens/Python2.png)
 
