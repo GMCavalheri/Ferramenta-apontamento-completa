@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50;
+    text-align: center;
+}
+
+nav a{
+    display: block;
+    font-weight: 600;
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    background-color: #95dbba;
+    width: 300px;
+    height: 66px;  
+    text-align: center;
+    line-height: 66px;
+    border-radius: 36px;
+    margin: 10px auto;
+}
+
+section{
+    padding-top: 14%;
+}
+
+section a{
+    display: block;
+    font-weight: 600;
+    font-size: 24px;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration: none;
+    background-color: #c24646;
+    width: 300px;
+    height: 66px;  
+    text-align: center;
+    line-height: 66px;
+    border-radius: 36px;
+    margin: 10px auto;
+}
+
+body{
+    background-color: #010102;
+    color: #FFFFFF;
+    background-image: url(../imagens/wallpaper-inicio.jpg);
+}
+
+a:hover{
+    background-color: #587c6b;
+
+}
+
+footer{
+    padding-top: 20%;
+}
